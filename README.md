@@ -4,6 +4,8 @@
 
 # ExtraMouse
 
+[![CI](https://github.com/IslamovMukhammad/ExtraMouse/actions/workflows/ci.yml/badge.svg)](https://github.com/IslamovMukhammad/ExtraMouse/actions/workflows/ci.yml)
+
 **Turn the extra buttons on any mouse into real trackpad gestures on macOS.**
 
 Free, open-source menu-bar app. Native SwiftUI, ~0% CPU when idle.
